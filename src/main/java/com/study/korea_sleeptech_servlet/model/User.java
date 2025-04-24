@@ -1,4 +1,4 @@
-package com.study.koreasleeptechservlet.model;
+package com.study.korea_sleeptech_servlet.model;
 
 public class User {
     private int id;

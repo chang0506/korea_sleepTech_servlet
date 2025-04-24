@@ -1,4 +1,4 @@
-package com.study.koreasleeptechservlet.이론;
+package com.study.korea_sleeptech_servlet.이론;
 
 public class Servlet01 {
     /*
